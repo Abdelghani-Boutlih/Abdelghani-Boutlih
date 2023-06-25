@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+### I'm an embedded system and industrial computing engineering student at ensa fez
 
 <!--
 **Abdelghani-Boutlih/Abdelghani-Boutlih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
